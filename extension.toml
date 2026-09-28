@@ -1,0 +1,7 @@
+[extension]
+id = "http_client"
+name = "Http Client"
+version = "0.1.0"
+description = "Http Client extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
